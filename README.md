@@ -1,7 +1,7 @@
 #  多级嵌套漏斗记忆系统 (MLNF‑Mem)
 ### 面向人形机器人的类脑认知与记忆中枢
 
-[![GitHub stars](https://img.shields.io/github/stars/文宝芙/MLNF-Mem?style=social)](https://github.com/文宝芙/MLNF-Mem/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/文波福/MLNF-Mem?style=social)](https://github.com/文波福'n/MLNF-Mem/stargazers)
 ![License](https://img.shields.io/badge/license-%E9%9D%9E%E5%95%86%E7%94%A8%E5%85%8D%E8%B4%B9%2F%E5%95%86%E7%94%A8%E9%9C%80%E6%8E%88%E6%9D%83-blue)
 
 ##  项目介绍
@@ -43,7 +43,7 @@ MLNF-Mem 是全球首创的面向**人形机器人**与**具身智能**的类脑
 - **技术交流**：欢迎在 Issues 区讨论技术细节。
 - **商用合作**：如需商业化落地或联合研发  请联系我们
 
-## 联系方式**：
+## 联系方式：
 
 - **通讯作者**：文波福
 - **邮箱**：710705008@qq.com
