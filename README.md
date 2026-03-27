@@ -1,4 +1,4 @@
-https://github.com/WenBofu-cy/MLNF-Mem
+https://github.com/WenBofu-cy/MLNF-Mem-English
 
 
 # 多级嵌套漏斗记忆系统 MLNF‑Mem —— 面向人形机器人的类脑认知与记忆中枢（技术白皮书）
